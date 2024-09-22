@@ -1,0 +1,155 @@
+[
+    {
+        "countryCallingCode": "پیش شماره",
+        "mobileNumber": "شماره موبایل",
+        "email": "ایمیل",
+        "avatar": "آواتار",
+        "firstName": "نام",
+        "lastName": "نام خانوادگی",
+        "gender": "جنسیت",
+        "birthDate": "تاریخ تولد",
+        "lat": "عرض جغرافیایی موقعیت مکانی",
+        "long": "طول جغرافیایی موقعیت مکانی",
+        "address": "آدرس",
+        "cityId": "کد شهر",
+        "cityTitle": "شهر",
+        "provinceId": "کد استان",
+        "provinceTitle": "استان",
+        "cv": "فایل cv",
+        "portfolio": "فایل نمونه کار",
+        "audioFile": "فایل صوتی",
+        "description": "توضیحات درباره من",
+        "personalCar": "دارای خودرو",
+        "drivingLicense": "دارای گواهینامه رانندگی",
+        "degrees":
+        [
+          {
+            "majorTitle": "رشته تحصیلی",
+            "subMajorTitle": "زیر رشته تحصیلی",
+            "institutionName": "نام موسسه / دانشگاه",
+            "gpa": "معدل",
+            "start": "سال شروع تحصیل",
+            "end": "سال پایان تحصیل"
+          }
+        ],
+        "skills":
+        [
+          {
+            "id": "شماره",
+            "title": "عنوان مهارت",
+            "duration": "مدت زمان گذراندن مهارت"
+          }
+        ],
+        "jobExperiences":
+        [
+          {
+            "id": "شماره",
+            "title": "عنوان شغلی",
+            "companyName": "نام شرکت",
+            "start": "سال شروع سابقه شغلی",
+            "end": "سال پایان سابقه شغلی",
+            "lastSalaryReceived": "میزان آخرین حقوق دریافتی"
+          }
+        ],
+        "projectExperiences":
+        [
+          {
+            "id": "شماره",
+            "title": "عنوان پروژه",
+            "employerName": "نام کارفرما / درخواست کننده پروژه",
+            "start": "سال شروع پروژه",
+            "end": "سال پایان پروژه"
+          }
+        ],
+        "interestCategories":
+        [
+          {
+            "id": "شماره",
+            "title": "عنوان دسته بندی علاقه مندی",
+            "interests": [
+              {
+                "id": "شماره",
+                "title": "عنوان علاقه مندی"
+              }
+            ]
+          }
+        ]
+      },
+      
+      
+      {
+        "id": "شماره",
+        "code": "کد",
+        "title": "عنوان",
+        "describtion": "توضیحات",
+        "cv": "cv ارسال",
+        "portfolio": "ارسال پورتفولیو (آلبوم نمونه کار)",
+        "categoryTitle": "دسته بندی آگهی",
+        "jobPositions": 
+        [
+          {
+            "title": "عنوان"
+          }
+        ],
+        "gender": "جنسیت",
+        "cooperationType": "نوع همکاری",
+        "provinceId": "استان",
+        "cityId": "شهر",
+        "lat": "موقعیت مکانی",
+        "long": "موقعیت مکانی",
+        "addressLine": "آدرس",
+        "minSalary": "حداقل حقوق",
+        "maxSalary": "حداکثر حقوق",
+        "basicSalary": "حقوق پایه",
+        "groceryAllowance": "حق بن کارگری",
+        "housingAllowance": "حق مسکن",
+        "endOfWorkBenefits": "مزایای پایان کار",
+        "serviceYearsAllowance": "سنوات",
+        "tax": "مالیات",
+        "newYearBonus": "عیدی",
+        "bonus": "پاداش",
+        "motivationalBonus": "پاداش انگیزشی",
+        "childrenAllowance": "حق اولاد",
+        "benefits": "مزایای موقعیت شغلی",
+        "mobileNumber": "شماره موبایل",
+        "phoneNumber": "شماره تلفن",
+        "email": "ایمیل",
+        "degrees": "تحصیلات",
+        "majors": "رشته",
+        "subMajors": "زیر رشته",
+        "institutionName": "نام موسسه / دانشگاه",
+        "skills":
+        [
+          {
+            "title": "عنوان مهارت",
+            "durationInMonth": "مدت زمان گذراندن مهارت"
+          }
+        ],
+        "jobExperience": "سوابق شغلی",
+        "experienceDuration": "حداقل مدت زمان سابقه",
+        
+        "interestCategories":
+        [
+          {
+            "title": "عنوان دسته بندی علاقه مندی",
+            "interestsTitles": [
+              {
+                "id": "شماره",
+                "title": "عنوان علاقه مندی"
+              }
+            ]
+          }
+        ],
+        "drivingLicense": "گواهینامه رانندگی",
+        "personalCar": "خودرو شخصی",
+        "publishDate": "تاریخ انتشار",
+        "isExpired": "منقضی شده"
+    }
+]
+      
+
+
+
+
+
+
